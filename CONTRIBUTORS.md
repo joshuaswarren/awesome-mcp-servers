@@ -444,6 +444,7 @@
 - [@zoharbabin](https://github.com/zoharbabin)
 - [@zw008](https://github.com/zw008)
 - [@zychenpeng](https://github.com/zychenpeng)
+
 _Linked GitHub accounts only. Anonymous (unlinked) commit authors are
 enumerable through the API (anon=true) but are identified there only by
 name/email, which this registry does not publish; credit them by hand in
